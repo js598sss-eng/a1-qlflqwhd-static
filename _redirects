@@ -1,2 +1,8 @@
+/tools/* /404.html 404
+/package.json /404.html 404
+/added-posts.json /404.html 404
+/writer-posts.json /404.html 404
+/export-manifest.json /404.html 404
+/robots.txt /404.html 404
 /wp-admin/*  /  302
 /wp-login.php  /  302
